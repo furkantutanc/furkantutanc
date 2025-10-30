@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&width=650&lines=Merhaba%2C+ben+Furkan.+👋;Hello%2C+I%27m+Furkan.+👋;Kodlama+ve+teknoloji+dünyama+hoş+geldiniz.;Welcome+to+my+world+of+code+and+technology.)
 
-
+![Visitor Count](https://komarev.com/ghpvc/?username=SENIN-KULLANICI-ADIN&color=36BCF7&style=flat-square)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkantutanc&show_icons=true&theme=radical&hide_border=true)
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SENIN-KULLANICI-ADIN&theme=radical&hide_border=true&color=36BCF7)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkantutanc&theme=radical)
 
