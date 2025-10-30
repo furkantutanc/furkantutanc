@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=furkantutanc&theme=radical&hide_border=true&color=36BCF7" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/furkantutanc?color=36BCF7&bg=0D1117" alt="GitHub Contribution Graph" />
 </p>
 
 <br>
