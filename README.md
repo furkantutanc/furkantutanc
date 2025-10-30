@@ -2,13 +2,11 @@
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&width=650&lines=Merhaba%2C+ben+Furkan.+👋;Hello%2C+I%27m+Furkan.+👋;Kodlama+ve+teknoloji+dünyama+hoş+geldiniz.;Welcome+to+my+world+of+code+and+technology." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkantutanc&color=36BCF7&style=flat-square" alt="Profile views" />
-</p>
+
 
 <br>
 
-<h3 align="left">🚀 Kullandığım Teknolojiler:</h3>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
