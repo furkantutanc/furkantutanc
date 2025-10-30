@@ -1,5 +1,4 @@
-## Merhaba, ben Furkan.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&width=435&lines=Merhaba%2C+profilime+hoş+geldin!;Ben+bir+Yazılım+Geliştiriciyim;Sürekli+yeni+şeyler+öğreniyorum.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&width=435&lines=Merhaba%2C+ben+Furkan;Hello%2C+I%27m+Furkan)
 
 <!--
 **furkantutanc/furkantutanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
