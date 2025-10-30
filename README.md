@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkantutanc&show_icons=true&theme=radical)
+
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkantutanc&theme=radical)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkantutanc&layout=compact&theme=radical)
+
+
