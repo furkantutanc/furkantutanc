@@ -15,9 +15,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https.img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  
-  </p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 <br>
 
@@ -35,4 +34,14 @@
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=furkantutanc&theme=radical&hide_border=true&color=36BCF7" alt="Activity Graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkantutanc/furkantutanc/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkantutanc/furkantutanc/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/furkantutanc/furkantutanc/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
